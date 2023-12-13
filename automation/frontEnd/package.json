@@ -1,0 +1,19 @@
+{
+  "name": "nikel",
+  "version": "1.0.0",
+  "description": "This is the repository for the Codaí 2.0 project, offered by [Growdev](https://www.growdev.com.br/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.5.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.2.0",
+    "cypress-wait-until": "^2.0.1"
+  }
+}
